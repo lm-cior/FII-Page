@@ -7,5 +7,5 @@ como enlaces estan habilitados:
 	- Atari
 	- Sega MS
 	- La entrevista a Positive
-	- La imagen del Cubo del PacMan
+	- La imagenes que haya en el cubo
 	- Contacto y los de Videojuegos Retro que devuelven a la Pagina Principal.
